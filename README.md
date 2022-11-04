@@ -36,6 +36,6 @@ kmaroney@tulane.edu
 ![Figure 2](https://user-images.githubusercontent.com/108837856/200055000-021fe4e9-dd6f-466e-b254-57df6f29f8bb.png)
 
 ## Full Poster
-
+![Poster](https://user-images.githubusercontent.com/108837856/200059262-839bad47-21ec-49ed-bba6-0cf55a9e3769.png)
 
 
