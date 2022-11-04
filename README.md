@@ -18,4 +18,8 @@ Methods: The Genetic Epidemiology Network of Salt Sensitivity (GenSalt) (n=1887)
 Results: Norepinephrine was positively associated with SBP in CLMI models (0.10 mmHg, CI: 0.00, 0.19) and DBP in LOD/√2 models (0.31 mmHg, CI: 0.05, 0.57) and CLMI models (0.10 mmHg, CI: 0.02, 0.18) during high sodium diet. Uromodulin was associated with decreased SBP in LOD/√2 models (-0.36 mmHg, CI: -0.57, -0.14) and CLMI models (-0.19 mmHg, CI: -0.31, -0.08) during potassium supplementation. Similarly, dopamine was positively associated with DBP during a high sodium diet and negatively associated with DBP during potassium supplementation.
 Conclusion: These data indicate urinary biomarkers dopamine, norepinephrine, and uromodulin are associated with BP salt-sensitivity and may be used in risk stratification.
 
+## Tables and Figures
+
+
+![Figure 1](https://user-images.githubusercontent.com/108837856/200054569-e484d32f-eb3c-41c4-a650-e45bfd705595.png)
 
