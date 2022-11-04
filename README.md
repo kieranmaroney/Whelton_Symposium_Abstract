@@ -3,7 +3,7 @@ I. Title
 Associations between Urinary Biomarkers at Baseline and Salt and Potassium Sensitivity: The GenSalt Study
 
 II. Author(s), Institution
-Author: Kieran Maroney, MPH1; Hua He, PhD1; Yadan Li, PhD; Jiang He, MD; PhD1 Jing Chen, MD1
+Author: Kieran Maroney, MPH; Hua He, PhD; Yadan Li, PhD; Jiang He, MD; PhD Jing Chen, MD
 Institution: Department of Epidemiology, Tulane University School of Public Health and Tropical Medicine, New Orleans, Louisiana, USA; 
 
 III. Contact Info
